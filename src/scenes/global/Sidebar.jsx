@@ -1,13 +1,13 @@
 
-const Topbar = () => {
+const Sidebar = () => {
     return (
         <>
         <div>
-            Hi
+            
         </div>
         </>
     )
 }
 
 
-export default Topbar;
+export default Sidebar;
